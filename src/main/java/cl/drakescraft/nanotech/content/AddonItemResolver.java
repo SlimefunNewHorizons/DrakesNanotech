@@ -1,7 +1,7 @@
 package cl.drakescraft.nanotech.content;
 
 import cl.drakescraft.nanotech.DrakesNanotechPlugin;
-import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
 import org.bukkit.inventory.ItemStack;
 
 import java.util.Arrays;

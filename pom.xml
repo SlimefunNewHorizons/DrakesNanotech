@@ -5,7 +5,7 @@
   <properties><maven.compiler.release>21</maven.compiler.release><paper.version>1.21.11-R0.1-SNAPSHOT</paper.version><project.build.sourceEncoding>UTF-8</project.build.sourceEncoding></properties>
   <repositories><repository><id>papermc</id><url>https://repo.papermc.io/repository/maven-public/</url></repository></repositories>
   <dependencies>
-    <dependency><groupId>com.github.drakescraft_labs</groupId><artifactId>slimefun-core</artifactId><version>11.0-Drake-1.21.11-SNAPSHOT</version><scope>provided</scope></dependency>
+    <dependency><groupId>com.github.drakescraft_labs</groupId><artifactId>slimefun-core</artifactId><version>11.0-Universal-26.x-SNAPSHOT</version><scope>provided</scope></dependency>
     <dependency><groupId>io.papermc.paper</groupId><artifactId>paper-api</artifactId><version>${paper.version}</version><scope>provided</scope></dependency>
     <dependency><groupId>com.google.code.findbugs</groupId><artifactId>jsr305</artifactId><version>3.0.2</version><scope>provided</scope></dependency>
     <dependency><groupId>org.junit.jupiter</groupId><artifactId>junit-jupiter</artifactId><version>5.12.2</version><scope>test</scope></dependency>
