@@ -7,7 +7,7 @@ import cl.drakescraft.nanotech.gameplay.HeroSuitListener;
 import cl.drakescraft.nanotech.gameplay.GodPrisonFieldService;
 import cl.drakescraft.nanotech.gameplay.StarkArmorEnchantService;
 import cl.drakescraft.nanotech.protection.ProtectionGate;
-import com.github.drakescraft_labs.slimefun4.api.SlimefunAddon;
+import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
