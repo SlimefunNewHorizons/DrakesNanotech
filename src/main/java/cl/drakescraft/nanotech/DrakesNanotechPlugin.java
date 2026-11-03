@@ -51,7 +51,7 @@ public final class DrakesNanotechPlugin extends JavaPlugin implements SlimefunAd
         getServer().getScheduler().cancelTasks(this);
     }
     @Override public @Nonnull JavaPlugin getJavaPlugin() { return this; }
-    @Override public String getBugTrackerURL() { return "https://github.com/DrakesCraft-Labs/DrakesNanotech/issues"; }
+    @Override public String getBugTrackerURL() { return "https://github.com/SlimefunNewHorizons/DrakesNanotech/issues"; }
 
     @Override
     public boolean onCommand(@Nonnull CommandSender sender, @Nonnull Command command, @Nonnull String label, @Nonnull String[] args) {
